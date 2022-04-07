@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="tittle_main">Librería</string>
+
+    <string name="titulo">Bienvenido</string>
+    <string name="titulo2">Gestión de libros</string>
+    <string name="btn_regresar">REGRESAR</string>
+    <string name="btnIniciar">INICIAR</string>
+    <string name="btnReg">REGISTRAR</string>
+    <string name="btnUpd">ACTUALIZAR</string>
+    <string name="id">Id:</string>
+    <string name="userName">Nombre de usuario:</string>
+    <string name="pwd_reg">Contraseña:</string>
+    <string name="pwd_confirm">Confirmar contraseña:</string>
+    <string name="edtxt_id">Ingrese ID</string>
+    <string name="edtxt_usuario">Ingresar usuario</string>
+    <string name="edtxt_pwd">Ingresar contraseña</string>
+    <string name="btnRegBook">Registrar</string>
+    <string name="f_img">Fragment Imagen</string>
+    <string name="btnUpdBook">Actualizar</string>
+    <string name="btn_cumpleanio">Fecha de cumpleaños</string>
+    <string name="f_cumpleanio">Fragment Cumpleaños</string>
+    <string name="btnConsBook">Consultar</string>
+    <string name="f_fruit">Fragment Fruta Favorita</string>
+    <string name="f_fruit_btn">Fruta Favorita</string>
+    <string name="btnConsultBook">Consultar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="edtxt_editorial_Book">Editorial</string>
+    <string name="editorial_Book">Editorial</string>
+    <string name="edtxt_autor_Book">Autor</string>
+    <string name="autorBook">Autor</string>
+    <string name="edtxt_nameBook">Nombre del libro</string>
+    <string name="nameBook">Nombre</string>
+    <string name="edtxt_idBook">ID del libro</string>
+    <string name="idBook">ID</string>
+    <string name="titulo5">Consultar libros</string>
+    <string name="btnBus">Buscar</string>
+</resources>
